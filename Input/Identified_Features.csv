@@ -1,0 +1,45 @@
+Features,P-Value,Name,Class,SubClass
+X0.60_187.0064m.z,2.88E-02,p-Cresol Sulfate,Organic acids and derivatives,Organic sulfuric acids and derivatives
+X0.67_174.0555m.z,1.33E-02,Phenylacetylglycine,Organic acids and derivatives,Carboxylic acids and derivatives
+X1.17_222.0890m.z,8.10E-03,5-Methyldeoxycytidine,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides
+X1.20_338.2446n,3.57E-02,Deoxy-PGE1,Fatty Acyls,Eicosanoids
+X1.20_343.2263m.z,1.52E-02,Dihydroxy-docosapentaenoic acid,Fatty Acyls,Docosanoids
+X10.02_902.5777m.z,3.90E-03,PC 18:2/20:1;3O,Glycerophospholipids,Oxidized Glycerophosphocholines
+X10.25_473.3636m.z,1.10E-02,FAHFA 18:4/12:0,Fatty Acyls,Fatty Acid Esters of Hydroxy Fatty Acid
+X10.25_858.5515m.z,3.86E-02,PS 38:3,Glycerophospholipids,Glycerophosphoserines
+X10.28_499.3783m.z,1.10E-03,Hexadecatrienoic acid,Fatty Acyls,Fatty Acids and Conjugates
+X10.81_397.3686m.z,3.00E-04,Tetracosanal,Fatty Acyls,Fatty aldehydes
+X10.84_886.5816m.z,2.55E-02,PS 18:1/22:2,Glycerophospholipids,Glycerophosphoserines
+X11.03_593.4789m.z,1.02E-02,DG O-16:0/16:3,Glycerolipids,Diradylglycerols
+X11.43_758.5348m.z,1.45E-02,PE 18:0/18:1;2O,Glycerophospholipids,Oxidized Glycerophosphoethanolamines
+X11.43_818.5549m.z,3.63E-02,PC 16:0/18:2;O,Glycerophospholipids,Oxidized Glycerophosphocholines
+X11.44_460.3551m.z,1.23E-02,Cer 18:1;2O/8:0,Sphingolipids,Ceramides
+X11.44_888.5920m.z,1.11E-02,PS O-24:1/18:3,Glycerophospholipids,Glycerophosphoserines
+X12.14_529.4266m.z,5.90E-03,FAHFA 20:3/14:1,Fatty Acyls,Fatty Acid Esters of Hydroxy Fatty Acid
+X12.27_820.5714m.z,4.00E-03,PC 16:0/18:1;O,Glycerophospholipids,Oxidized Glycerophosphocholines
+X12.72_719.5339m.z,3.20E-02,SM 32:1,Sphingolipids,Sphingomyelins
+X13.00_914.5758m.z,4.00E-02,SHexCer 40:1;3O,Sphingolipids,Sulfoglycosphingolipids
+X13.02_745.5497m.z,3.80E-02,SM 34:2,Sphingolipids,Sphingomyelins
+X13.81_873.6713m.z,1.70E-02,SM 42:1;O,Sphingolipids,Sphingomyelins
+X13.83_557.4574m.z,1.14E-02,FAHFA 18:2/18:2,Fatty Acyls,Fatty Acid Esters of Hydroxy Fatty Acid
+X14.06_313.0786m.z,4.00E-03,Inosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides
+X14.58_773.5812m.z,4.40E-03,SM 36:2,Sphingolipids,Sphingomyelins
+X14.59_557.3996m.z,8.80E-03,FAHFA 20:4/18:5,Fatty Acyls,Fatty Acid Esters of Hydroxy Fatty Acid
+X15.12_239.0596m.z,9.30E-03,Tryptophan,Organic acids and derivatives,Indoles and derivatives
+X15.70_775.5968m.z,4.70E-03,SM 36:1,Sphingolipids,Sphingomyelins
+X16.17_777.6137m.z,4.40E-03,SM 36:0,Sphingolipids,Sphingomyelins
+X16.23_736.5294m.z,3.79E-02,PC O-16:4/18:1,Glycerophospholipids,Glycerophosphocholines
+X16.38_788.5817m.z,1.76E-02,PC P-16:0/18:1,Glycerophospholipids,Glycerophosphocholines
+X16.83_829.6440m.z,4.15E-02,SM 40:2,Sphingolipids,Sphingomyelins
+X16.86_803.6281m.z,4.87E-02,SM 38:1,Sphingolipids,Sphingomyelins
+X2.28_277.2167m.z,4.25E-02,8-HODE,Fatty Acyls,Octadecanoids
+X2.33_320.2347n,2.55E-02,Epoxyeicosatrienoic acid,Fatty Acyls,Eicosanoids
+X2.33_343.2275m.z,3.97E-02,"16,17-EpDPE",Fatty Acyls,Fatty acids and conjugates
+X2.52_255.2323m.z,1.09E-02,Palmitic acid,Fatty Acyls,Fatty acids and conjugates
+X2.85_454.2920m.z,2.91E-02,Lyso PE O-16:0;O,Glycerophospholipids,Oxidized Glycerophosphoethanolamines
+X2.89_452.2777m.z,2.65E-02,Lyso PE 16:0,Glycerophospholipids,Glycerophosphoethanolamines
+X2.91_321.2429m.z,2.47E-02,PGE1-Alcohol,Fatty Acyls,Eicosanoids
+X5.87_554.3020m.z,1.58E-02,Lyso PC 18:2,Glycerophospholipids,Glycerophosphocholines
+X8.51_465.3041m.z,2.52E-02,Cholesterol sulfate,Steroids and steroid derivatives,Cholestane steroids
+X9.27_884.5672m.z,3.45E-02,PS 40:4,Glycerophospholipids,Glycerophosphoserines
+X9.50_860.5669m.z,3.28E-02,HexPE 16:0/18:1,Glycerophospholipids,Glycerophosphoethanolamine glycans
